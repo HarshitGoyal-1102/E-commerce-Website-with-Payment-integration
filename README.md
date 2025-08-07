@@ -1,2 +1,7 @@
 # E-commerce-Website-with-Payment-integration
-Designed and developed a complete e-commerce web application. Integrated PayPal Payment gateway for secure transactions. Features included Product listing, cart system, review and order management.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+@vitejs/plugin-react uses Babel for Fast Refresh
+@vitejs/plugin-react-swc uses SWC for Fast Refresh
