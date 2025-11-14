@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 # To Run
 
-1. In one terminal run these commands (For Backend / Server):
+1.In one terminal run these commands (For Backend / Server):
    
   cd Backend
 
