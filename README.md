@@ -8,9 +8,15 @@ Currently, two official plugins are available:
 
 @vitejs/plugin-react-swc uses SWC for Fast Refresh
 
+# Functionalities
+
+Authentication: Secure user authentication system to protect your blogs.
+Payment: PayPal Payment gateway for secure transactions
+Product listing, cart system, review and order management.
+
 # Screenshots
 
-simple UI
+Simple UI
 <img width="1223" height="866" alt="Screenshot 2025-11-14 180942" src="https://github.com/user-attachments/assets/9f12d65d-a602-4cb6-bdf3-c0b8bef711d6" />
 
 # Cart
