@@ -12,15 +12,15 @@ Currently, two official plugins are available:
 
 1. In one terminal run these commands (For Backend / Server):
    
-   cd Backend
- 
-   npm run dev
+  cd Backend
+
+  npm run dev
 
 2.In the other terminal run these commands (For Frontend / Client):
 
-   cd Frontend
+  cd Frontend
   
-   npm start
+  npm start
 
 # Functionalities
 
