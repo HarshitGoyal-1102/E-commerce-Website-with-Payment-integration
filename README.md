@@ -18,9 +18,9 @@ Currently, two official plugins are available:
 
 2.In the other terminal run these commands (For Frontend / Client):
 
-  cd Frontend
+   cd Frontend
   
-  npm start
+   npm start
 
 # Functionalities
 
