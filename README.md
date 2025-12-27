@@ -32,7 +32,7 @@ Product listing, cart system, review and order management.
 
 # Screenshots
 
-User Login
+# User Login
 <img width="1465" height="807" alt="Screenshot 2025-12-27 221938" src="https://github.com/user-attachments/assets/b077cc05-fb11-4527-a49f-69cd36b69378" />
 
 # Simple UI
